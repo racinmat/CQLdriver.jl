@@ -1,0 +1,1167 @@
+["centos_driver_1.0.0"]
+git-tree-sha1 = "d88f4f996384fd589cdfdaa12d992219bb37a37b"
+lazy = true
+
+    [["centos_driver_1.0.0".download]]
+    sha256 = "b747f25760a6e025ca802197f511202b4b64becae2d8fc9873a0dc3656ed5c12"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v1.0.0/cassandra-cpp-driver-1.0.0-1.el7.centos.x86_64.rpm"
+
+["centos_driver_1.0.4"]
+git-tree-sha1 = "bfeedc093c3eccc20ec9cd49e81bc5ca3c8183a7"
+lazy = true
+
+    [["centos_driver_1.0.4".download]]
+    sha256 = "11062c4383807d7299efa89dc9620c9eee0e32b488442666d81ee4d7091224c4"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v1.0.4/cassandra-cpp-driver-1.0.4-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.10.0"]
+git-tree-sha1 = "1d18b2b6fe854165fc843b03159bd3682de4a735"
+lazy = true
+
+    [["centos_driver_2.10.0".download]]
+    sha256 = "876f0260e9f04d8374cd2e172434bf0ff8df5707b4fa3291b4b3a384e3a5f33f"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.10.0/cassandra-cpp-driver-2.10.0-1.el7.x86_64.rpm"
+
+["centos_driver_2.11.0"]
+git-tree-sha1 = "61c834efa20869173301d2bc91ce4d9c8cce4999"
+lazy = true
+
+    [["centos_driver_2.11.0".download]]
+    sha256 = "10d3f894ee77ef243a33c4dc468be6f61de11aadf7363cf7432c59820dd029fe"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.11.0/cassandra-cpp-driver-2.11.0-1.el7.x86_64.rpm"
+
+["centos_driver_2.12.0"]
+git-tree-sha1 = "510c77257409b101674bdc5a62d4762b18c9836d"
+lazy = true
+
+    [["centos_driver_2.12.0".download]]
+    sha256 = "841f2b29d339b6533edec90b5e0c60b1ed4995701d683434d9a4f2086c750930"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.12.0/cassandra-cpp-driver-2.12.0-1.el7.x86_64.rpm"
+
+["centos_driver_2.13.0"]
+git-tree-sha1 = "c1fe8770cbc85223e566e2982d228d14fc74fb5e"
+lazy = true
+
+    [["centos_driver_2.13.0".download]]
+    sha256 = "67bd399e26cda5855d42848ffa7120e9a5661735b37a87b1fda1cef4ad500305"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.13.0/cassandra-cpp-driver-2.13.0-1.el7.x86_64.rpm"
+
+["centos_driver_2.14.0"]
+git-tree-sha1 = "8e7fc75e93efa50f40eb745922353170cc782d99"
+lazy = true
+
+    [["centos_driver_2.14.0".download]]
+    sha256 = "6e673bf82cc2618d91ca23769f8add5b5d27e580b720cc4c6b0c13afaaa332c8"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.14.0/cassandra-cpp-driver-2.14.0-1.el7.x86_64.rpm"
+
+["centos_driver_2.14.1"]
+git-tree-sha1 = "c04506152b253ebf0fd5e09338101e58e2dfa1ff"
+lazy = true
+
+    [["centos_driver_2.14.1".download]]
+    sha256 = "2949b4a23cc8b4348f0bae6bc6d214075e49b8e61bedd33968147d962e56be52"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.14.1/cassandra-cpp-driver-2.14.1-1.el7.x86_64.rpm"
+
+["centos_driver_2.15.0"]
+git-tree-sha1 = "aa8773b000b4bfc9d8bdb2c1cd0c7d3bae9395a8"
+lazy = true
+
+    [["centos_driver_2.15.0".download]]
+    sha256 = "3167caf104e6e165df87667f2fdfc7fc9811d7d10b22138f25504c3601650622"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.15.0/cassandra-cpp-driver-2.15.0-1.el7.x86_64.rpm"
+
+["centos_driver_2.15.1"]
+git-tree-sha1 = "dc7de332713aba22744e26740f9ecab8fc1795fd"
+lazy = true
+
+    [["centos_driver_2.15.1".download]]
+    sha256 = "23e391b6148a709bc8a1e1573dd1c65974ec556c9088fe608f9cb1546df67e43"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.15.1/cassandra-cpp-driver-2.15.1-1.el7.x86_64.rpm"
+
+["centos_driver_2.15.2"]
+git-tree-sha1 = "e7ca63b0e80c4845df765695bfdcb395e0160301"
+lazy = true
+
+    [["centos_driver_2.15.2".download]]
+    sha256 = "0caf65b207edbc89490e28a707bb499aa7b9b5915fc99364d7fdf11fd00979be"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.15.2/cassandra-cpp-driver-2.15.2-1.el7.x86_64.rpm"
+
+["centos_driver_2.15.3"]
+git-tree-sha1 = "b415d0e373132decc7cdd5a51b00721383b2df28"
+lazy = true
+
+    [["centos_driver_2.15.3".download]]
+    sha256 = "470f89142e5f2fea2a8493930fc783077d4f60f884646e6548d042b2262e443e"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.15.3/cassandra-cpp-driver-2.15.3-1.el7.x86_64.rpm"
+
+["centos_driver_2.2.0"]
+git-tree-sha1 = "4355f94b8fd1f57e47b65058a6ad5610c1c0f949"
+lazy = true
+
+    [["centos_driver_2.2.0".download]]
+    sha256 = "d342ca918cdf0807dcda2d3f3e1a9e62bd277770696a860fbadf27242808fce2"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.2.0/cassandra-cpp-driver-2.2.0-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.2.1"]
+git-tree-sha1 = "571a5c7a9fe034f63d632a9abd0ea2e40a5060dc"
+lazy = true
+
+    [["centos_driver_2.2.1".download]]
+    sha256 = "0e5befc3be29d7c92668cf18cf3a025989dc3c3f84f8f0833db2fcec542f6e87"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.2.1/cassandra-cpp-driver-2.2.1-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.2.2"]
+git-tree-sha1 = "f24fe64a20372dadb3e50ccf40fccdbdb603e262"
+lazy = true
+
+    [["centos_driver_2.2.2".download]]
+    sha256 = "4ddd1c2f13b58dc1231e83adb1f6a6172a32dfb302c467209c8f25b99c122138"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.2.2/cassandra-cpp-driver-2.2.2-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.3.0"]
+git-tree-sha1 = "232a51b01b8b3cb0097b66edd329c46e90be4baf"
+lazy = true
+
+    [["centos_driver_2.3.0".download]]
+    sha256 = "073e46429befa76a5d390ef2ecbb514740e5a02557eadfee7ba13c806a6fa34b"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.3.0/cassandra-cpp-driver-2.3.0-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.4.0"]
+git-tree-sha1 = "ac5a50cd97db6ba32fd3cd570334354ef05cd2b8"
+lazy = true
+
+    [["centos_driver_2.4.0".download]]
+    sha256 = "f1da775b4932eba6c5bb9f9a9346827bcac43d0056c37c00a22e188ac35a1bdb"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.4.0/cassandra-cpp-driver-2.4.0-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.4.1"]
+git-tree-sha1 = "88092490ece0ad390e128177831e1ff5ad4bf1ef"
+lazy = true
+
+    [["centos_driver_2.4.1".download]]
+    sha256 = "70ab4b2f29ff1107a03dfc18d1444caec1a744e97a0cef24c26b8ebe638dd56e"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.4.1/cassandra-cpp-driver-2.4.1-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.4.2"]
+git-tree-sha1 = "c71f5bdb861a613deefc6c66ea8924203f479d3a"
+lazy = true
+
+    [["centos_driver_2.4.2".download]]
+    sha256 = "6da70bd3fb0bb3a3fa46a70fe9e3e41df8ac830f62e1c2e0e59d97bcd8ddbe93"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.4.2/cassandra-cpp-driver-2.4.2-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.4.3"]
+git-tree-sha1 = "dda89ac10ec3108e7b457a6f702d17de6954b52a"
+lazy = true
+
+    [["centos_driver_2.4.3".download]]
+    sha256 = "9a22902c438faf005f712b6aafc1d2376b44b0dc16f5924f464118aa2c6a7306"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.4.3/cassandra-cpp-driver-2.4.3-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.5.0"]
+git-tree-sha1 = "46bbc01f34f303b5803f92f737b4c42c5729edb1"
+lazy = true
+
+    [["centos_driver_2.5.0".download]]
+    sha256 = "8a32f4b18a5bf96cd4bbbfdf87e6bfdcee6dc21667a7f1edc6f417f360997cd1"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.5.0/cassandra-cpp-driver-2.5.0-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.6.0"]
+git-tree-sha1 = "709b937abbe62dd2698cac3f00f5bb7583b4f66e"
+lazy = true
+
+    [["centos_driver_2.6.0".download]]
+    sha256 = "719f57dc28993372d6d49efbefce1ebf3d6d97067df851bdccd4bdf31687ef3e"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.6.0/cassandra-cpp-driver-2.6.0-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.7.0"]
+git-tree-sha1 = "562128ac6ed60c26494903cd874bd481e456b0de"
+lazy = true
+
+    [["centos_driver_2.7.0".download]]
+    sha256 = "88fb2e7bcc12747bc244777d8d0985655c963956cf96921edfbbc4c2f99f7149"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.7.0/cassandra-cpp-driver-2.7.0-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.7.1"]
+git-tree-sha1 = "6aef8a78cdb2c3babfa5865a336a4ca25b17670a"
+lazy = true
+
+    [["centos_driver_2.7.1".download]]
+    sha256 = "8dcdcc3dc8452c8429657365349c3a5311ada398ac373142fc15d5faf8b5b174"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.7.1/cassandra-cpp-driver-2.7.1-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.8.0"]
+git-tree-sha1 = "eec4b16d323f15b5620c16b12ca2b2d19d1c7693"
+lazy = true
+
+    [["centos_driver_2.8.0".download]]
+    sha256 = "368e83084df17466b7bda41a1d04d856d9b53b14c5149b33b274eee0c4b3e93c"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.8.0/cassandra-cpp-driver-2.8.0-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.8.1"]
+git-tree-sha1 = "65ae70c3aca67ff16c8e2c986a065c8e6a2ee159"
+lazy = true
+
+    [["centos_driver_2.8.1".download]]
+    sha256 = "3c00b5d14fba5c3084e86003efc310318071276ab12583c3c9b26a68adeb3592"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.8.1/cassandra-cpp-driver-2.8.1-1.el7.centos.x86_64.rpm"
+
+["centos_driver_2.9.0"]
+git-tree-sha1 = "d4fb4bd5580e784eb77c26bb60e2b5e574b254fb"
+lazy = true
+
+    [["centos_driver_2.9.0".download]]
+    sha256 = "37b3655ee62c07137b734fc61c95e746c8fcffe7ae6e3fa7e973d679c923317d"
+    url = "http://downloads.datastax.com/cpp-driver/centos/7/cassandra/v2.9.0/cassandra-cpp-driver-2.9.0-1.el7.centos.x86_64.rpm"
+
+["ubuntu_12_driver_1.0.0"]
+git-tree-sha1 = "491fef7d91f329a1cbd1f8e4f79611117ac27eb6"
+lazy = true
+
+    [["ubuntu_12_driver_1.0.0".download]]
+    sha256 = "260d686b2f0bfcc937e387befa4d22e4fe3f70cfb5ae2767efc68800a349f934"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v1.0.0/cassandra-cpp-driver_1.0.0-1_amd64.deb"
+
+["ubuntu_12_driver_1.0.1"]
+git-tree-sha1 = "2249cd78e4f77f736274461b71e8e2b343c457fd"
+lazy = true
+
+    [["ubuntu_12_driver_1.0.1".download]]
+    sha256 = "43f026823b8b9dd0ac9f0e31b4184dc747e46231ac281f1755e5ccc8030274b7"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v1.0.1/cassandra-cpp-driver_1.0.1-1_amd64.deb"
+
+["ubuntu_12_driver_1.0.2"]
+git-tree-sha1 = "459990718bd60c093661a236ee4b618ef9cb538e"
+lazy = true
+
+    [["ubuntu_12_driver_1.0.2".download]]
+    sha256 = "c5615de8f8e1c5b93234b25c4228e5d9cd733967075f21d753dd2be7268a7223"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v1.0.2/cassandra-cpp-driver_1.0.2-1_amd64.deb"
+
+["ubuntu_12_driver_1.0.3"]
+git-tree-sha1 = "362c6708d8deffffe54b2f4e725a3c70fc3a48d0"
+lazy = true
+
+    [["ubuntu_12_driver_1.0.3".download]]
+    sha256 = "0c835788721f4c112a9e5390565181600386c11453b8f9780f9fffa21930a5df"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v1.0.3/cassandra-cpp-driver_1.0.3-1_amd64.deb"
+
+["ubuntu_12_driver_1.0.4"]
+git-tree-sha1 = "5d14825523bcefea90f7585b76b57a0c4de3e425"
+lazy = true
+
+    [["ubuntu_12_driver_1.0.4".download]]
+    sha256 = "a7ddfbac995b6152ad21eeb900cd997d81a14c8e3db874db90ee7a004542c5d6"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v1.0.4/cassandra-cpp-driver_1.0.4-1_amd64.deb"
+
+["ubuntu_12_driver_2.0.0"]
+git-tree-sha1 = "c0f7de117c59700232dd99c508bb429954665ee5"
+lazy = true
+
+    [["ubuntu_12_driver_2.0.0".download]]
+    sha256 = "5b622eb32d3e2319faa8bf11598273b43b1aa69cd4e22d532197fb439904ba7f"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.0.0/cassandra-cpp-driver_2.0.0-1_amd64.deb"
+
+["ubuntu_12_driver_2.0.1"]
+git-tree-sha1 = "5875df7a77d577aa87a59e7408ce119f2b5f6728"
+lazy = true
+
+    [["ubuntu_12_driver_2.0.1".download]]
+    sha256 = "18c6d3fb54cba38dfd887ea7731d773f5234708f5216c126368a207f38d49d4c"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.0.1/cassandra-cpp-driver_2.0.1-1_amd64.deb"
+
+["ubuntu_12_driver_2.1.0"]
+git-tree-sha1 = "fa03140fcd98ff89cf0e3705596e4c4eae2b32d1"
+lazy = true
+
+    [["ubuntu_12_driver_2.1.0".download]]
+    sha256 = "3d760ef60bb0e40ceb0f00c9c2d43dfe6881ed0978d94a7b705719af8af24067"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.1.0/cassandra-cpp-driver_2.1.0-1_amd64.deb"
+
+["ubuntu_12_driver_2.2.0"]
+git-tree-sha1 = "cd095cd44ed1cd2fec5ae4e4d4bb655d092cdb97"
+lazy = true
+
+    [["ubuntu_12_driver_2.2.0".download]]
+    sha256 = "3c90d863c8114d1d0c669a0424f84aa920fcfa7ae41b84ff45cc00b344a300e7"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.2.0/cassandra-cpp-driver_2.2.0-1_amd64.deb"
+
+["ubuntu_12_driver_2.2.1"]
+git-tree-sha1 = "5cc97fa85e1313d492c9bfe4320a73a2f32093c0"
+lazy = true
+
+    [["ubuntu_12_driver_2.2.1".download]]
+    sha256 = "49ff17955dedb3c804dcc0bc3b8ff3481b3d7630070756d8e8f2965c6d94e4d7"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.2.1/cassandra-cpp-driver_2.2.1-1_amd64.deb"
+
+["ubuntu_12_driver_2.2.2"]
+git-tree-sha1 = "3dc40c1939bec8c1ffcf795bb5527868c81680eb"
+lazy = true
+
+    [["ubuntu_12_driver_2.2.2".download]]
+    sha256 = "d2923253b55755961dee234173864f81351dd890e5249bfac007d048be992cd8"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.2.2/cassandra-cpp-driver_2.2.2-1_amd64.deb"
+
+["ubuntu_12_driver_2.3.0"]
+git-tree-sha1 = "132a3917450b005c4f7008865a1ba5694363e8d2"
+lazy = true
+
+    [["ubuntu_12_driver_2.3.0".download]]
+    sha256 = "f68ea290a73c4b042a7434c3df5d5374e10f8dfe5205f71fa3a6ebe997a00d96"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.3.0/cassandra-cpp-driver_2.3.0-1_amd64.deb"
+
+["ubuntu_12_driver_2.4.0"]
+git-tree-sha1 = "08f1ab4fa7f0670d547bd60633f99e3f50ea9818"
+lazy = true
+
+    [["ubuntu_12_driver_2.4.0".download]]
+    sha256 = "f96a854fb686619cb2a4ef4ee46fecb85d5ae54d8bb943cf4179a6fa93442a16"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.4.0/cassandra-cpp-driver_2.4.0-1_amd64.deb"
+
+["ubuntu_12_driver_2.4.1"]
+git-tree-sha1 = "384ce72c8cdf890084d90a655ab36ab189f1ee70"
+lazy = true
+
+    [["ubuntu_12_driver_2.4.1".download]]
+    sha256 = "f282eb8dc5d50e0a29384a5f87a68cc3675361acae76a885001e99095ae3eb67"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.4.1/cassandra-cpp-driver_2.4.1-1_amd64.deb"
+
+["ubuntu_12_driver_2.4.2"]
+git-tree-sha1 = "f9ab5955fc69edadce95aed0e49fdc21af363802"
+lazy = true
+
+    [["ubuntu_12_driver_2.4.2".download]]
+    sha256 = "4874542c5f3f7242f1b044272cb1c69803bd2d19db52691229190226cf795c1b"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.4.2/cassandra-cpp-driver_2.4.2-1_amd64.deb"
+
+["ubuntu_12_driver_2.4.3"]
+git-tree-sha1 = "1a4fbd146043a2aafc08a9e742a154ad2e2d0b11"
+lazy = true
+
+    [["ubuntu_12_driver_2.4.3".download]]
+    sha256 = "82b4094abc27e4c38eb74ef7cc3f8031913cb27d0020f43fcb810198d21707ee"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.4.3/cassandra-cpp-driver_2.4.3-1_amd64.deb"
+
+["ubuntu_12_driver_2.5.0"]
+git-tree-sha1 = "e4777716f217f5db28762867366e10fca0fbf55e"
+lazy = true
+
+    [["ubuntu_12_driver_2.5.0".download]]
+    sha256 = "f4f7173ef1dc4d2a4be581a0d00aef07811c683300b6b9adbacf09f928dd6988"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.5.0/cassandra-cpp-driver_2.5.0-1_amd64.deb"
+
+["ubuntu_12_driver_2.6.0"]
+git-tree-sha1 = "28ee5a158f247c58bb3e6cd3a58328f95c0d2e3a"
+lazy = true
+
+    [["ubuntu_12_driver_2.6.0".download]]
+    sha256 = "d7d3e234f9324be29a5258d192d204e67f28c8b06c2336dfea48dbb08beb5d4b"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.6.0/cassandra-cpp-driver_2.6.0-1_amd64.deb"
+
+["ubuntu_12_driver_2.7.0"]
+git-tree-sha1 = "ed7381321cbca4a8c432b8856dcc699689c67211"
+lazy = true
+
+    [["ubuntu_12_driver_2.7.0".download]]
+    sha256 = "ab7d5e0b850d7c451368819503cdf2ec1dcf6a90a69b8a8a4067d5fe6e5b519a"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/12.04/cassandra/v2.7.0/cassandra-cpp-driver_2.7.0-1_amd64.deb"
+
+["ubuntu_12_libuv_1.23.0"]
+git-tree-sha1 = "ef7dba40f8fb9a539f23c9da8ace0f02bd45b58e"
+lazy = true
+
+    [["ubuntu_12_libuv_1.23.0".download]]
+    sha256 = "94c940303d37deb67e95a043a1b705be1c7c2ffdfafc9acf7750a0be45a5f1d3"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/dependencies/libuv/v1.23.0/libuv1_1.23.0-1_amd64.deb"
+
+["ubuntu_14_driver_1.0.0"]
+git-tree-sha1 = "e3d68f6a2872218b0ff02809b4717f618c17cbf2"
+lazy = true
+
+    [["ubuntu_14_driver_1.0.0".download]]
+    sha256 = "1764eca18a6ec0587eba6477d3cd86890f29babd0c99d51f02f1399d58f39bc3"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v1.0.0/cassandra-cpp-driver_1.0.0-1_amd64.deb"
+
+["ubuntu_14_driver_1.0.1"]
+git-tree-sha1 = "ab15a8b2d470453a0d6a8b7aed751feb6a02a83c"
+lazy = true
+
+    [["ubuntu_14_driver_1.0.1".download]]
+    sha256 = "d0853e172e917099cd2cdf1e179ad643787e0f588b4e5e1b7ce1667c9a595447"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v1.0.1/cassandra-cpp-driver_1.0.1-1_amd64.deb"
+
+["ubuntu_14_driver_1.0.2"]
+git-tree-sha1 = "ad60d7d88dff06b1c57f2e7c8eef01f43cb57b66"
+lazy = true
+
+    [["ubuntu_14_driver_1.0.2".download]]
+    sha256 = "39bcdfb4ff4f62061fa855a98c2308129a5b4bea1253ee6de751f03c4e23b956"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v1.0.2/cassandra-cpp-driver_1.0.2-1_amd64.deb"
+
+["ubuntu_14_driver_1.0.3"]
+git-tree-sha1 = "22df6aec17d7850ce1e5d77352df2c709fe91268"
+lazy = true
+
+    [["ubuntu_14_driver_1.0.3".download]]
+    sha256 = "a9ecb82ebadd7322ff3f2f71f48c4fdaedc7cf80e24a9fa147b458da7574d112"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v1.0.3/cassandra-cpp-driver_1.0.3-1_amd64.deb"
+
+["ubuntu_14_driver_1.0.4"]
+git-tree-sha1 = "a09dee4731ef99f486da08fb3bd5aeb63c02ae50"
+lazy = true
+
+    [["ubuntu_14_driver_1.0.4".download]]
+    sha256 = "545943cf64c571cc71314568be0eee23ca699db76d9e348565bab3a925ad70b6"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v1.0.4/cassandra-cpp-driver_1.0.4-1_amd64.deb"
+
+["ubuntu_14_driver_2.0.0"]
+git-tree-sha1 = "1308e3bff54c43c8c4520c3c67dcc1fe0e42ebf2"
+lazy = true
+
+    [["ubuntu_14_driver_2.0.0".download]]
+    sha256 = "4f8a204369148b2b431607b478ca731bb9563e794aea78fe6c63fb8a970eb2ac"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.0.0/cassandra-cpp-driver_2.0.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.0.1"]
+git-tree-sha1 = "c712eb93b9d96e66ab62299d6437c381b52cd3db"
+lazy = true
+
+    [["ubuntu_14_driver_2.0.1".download]]
+    sha256 = "c49aaaabfd3cfb36eb509cd9865df558f80149e414ed2ff9ba283ffe49a8baac"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.0.1/cassandra-cpp-driver_2.0.1-1_amd64.deb"
+
+["ubuntu_14_driver_2.1.0"]
+git-tree-sha1 = "822879149919abbcd94d9066c068cf113498957d"
+lazy = true
+
+    [["ubuntu_14_driver_2.1.0".download]]
+    sha256 = "1647c00c120d7b12a93483dc00743ba44caefb9e34b5338a493bd2cd17d73da7"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.1.0/cassandra-cpp-driver_2.1.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.10.0"]
+git-tree-sha1 = "50bedf6d5781e4248d43f04df57aa69b56be17eb"
+lazy = true
+
+    [["ubuntu_14_driver_2.10.0".download]]
+    sha256 = "f14d32092996c2cdc4ea7f8756d843c19a753e63c26bba8b99333d4037dd7de9"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.10.0/cassandra-cpp-driver_2.10.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.11.0"]
+git-tree-sha1 = "95349e78a4a4e5eb2511f586366ff2019668607f"
+lazy = true
+
+    [["ubuntu_14_driver_2.11.0".download]]
+    sha256 = "25e14bb61e4c55f6952bb1587068e517b1ab0b10734fa87655506ba2c7daf9c4"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.11.0/cassandra-cpp-driver_2.11.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.12.0"]
+git-tree-sha1 = "2be7e0c6ab59de9661a9e1e36d067e22bb159486"
+lazy = true
+
+    [["ubuntu_14_driver_2.12.0".download]]
+    sha256 = "17e17b26493284aa0eb5a4b6acbde9c0744073c4579f13558c1ea4692f9f63be"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.12.0/cassandra-cpp-driver_2.12.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.13.0"]
+git-tree-sha1 = "5e9795a3a37dcc995780e4ff856779dfb6102e80"
+lazy = true
+
+    [["ubuntu_14_driver_2.13.0".download]]
+    sha256 = "d507ab72be5020d36719245303c5f9ee1a7a538cf962332f39638049b897e639"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.13.0/cassandra-cpp-driver_2.13.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.14.1"]
+git-tree-sha1 = "cdd4797d36e561e290f21224a4cf752923a763cd"
+lazy = true
+
+    [["ubuntu_14_driver_2.14.1".download]]
+    sha256 = "112e5153cf9f5945ecde7de154c64bd6ea623f3ecc69b11ca21c549e0bdcecd1"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.14.1/cassandra-cpp-driver_2.14.1-1_amd64.deb"
+
+["ubuntu_14_driver_2.15.0"]
+git-tree-sha1 = "f011bcd2c1cae83992cc528319bfd6464033a10e"
+lazy = true
+
+    [["ubuntu_14_driver_2.15.0".download]]
+    sha256 = "1b35c06a36e984aa97055d2f938fb47875ef8745cdbad3ab95e6c4c4eb5e7b52"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.15.0/cassandra-cpp-driver_2.15.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.15.1"]
+git-tree-sha1 = "8013674938dbd775a3887f65b886b0694bfc0369"
+lazy = true
+
+    [["ubuntu_14_driver_2.15.1".download]]
+    sha256 = "7539e8e571f72f9cecc68907e8c852f669c76d189e6d06b6fe5c5578bcfe85e5"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.15.1/cassandra-cpp-driver_2.15.1-1_amd64.deb"
+
+["ubuntu_14_driver_2.15.2"]
+git-tree-sha1 = "fc07928eaea12dbc586e03043a53ca5b3e7a55af"
+lazy = true
+
+    [["ubuntu_14_driver_2.15.2".download]]
+    sha256 = "0f2acdd59a2a2b2c9a05bccd8923cfb7eaf010c8f03492e2fa284978851a71a8"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.15.2/cassandra-cpp-driver_2.15.2-1_amd64.deb"
+
+["ubuntu_14_driver_2.15.3"]
+git-tree-sha1 = "2b9a4911c007dc54abc85d11777139a4b74297ac"
+lazy = true
+
+    [["ubuntu_14_driver_2.15.3".download]]
+    sha256 = "1cd1e2bc8d29f2b4c06d24f4ad7165a69d9f62b238ab2c62fbe92f1f832bab14"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.15.3/cassandra-cpp-driver_2.15.3-1_amd64.deb"
+
+["ubuntu_14_driver_2.2.0"]
+git-tree-sha1 = "009e1ea13079793e83451b10c118c945409e462c"
+lazy = true
+
+    [["ubuntu_14_driver_2.2.0".download]]
+    sha256 = "d4de3ac0b44435197fbf93a43c8c6bac55984c207e296e7fd1a1c742b1eb6454"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.2.0/cassandra-cpp-driver_2.2.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.2.1"]
+git-tree-sha1 = "4c8585bd868c42b88a2fa9af81744306b26a96cc"
+lazy = true
+
+    [["ubuntu_14_driver_2.2.1".download]]
+    sha256 = "1230b421546de68716e0d989088e14614a83c1ec2dee9ea7b39f92fe7ac82208"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.2.1/cassandra-cpp-driver_2.2.1-1_amd64.deb"
+
+["ubuntu_14_driver_2.2.2"]
+git-tree-sha1 = "6e886aae899c8fcb0f901f3fe060a587a20a261c"
+lazy = true
+
+    [["ubuntu_14_driver_2.2.2".download]]
+    sha256 = "2a2a5d7ba97189dbe3840598f675ddd2c84c7ff6c706ae3d88be6a213a12f82a"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.2.2/cassandra-cpp-driver_2.2.2-1_amd64.deb"
+
+["ubuntu_14_driver_2.3.0"]
+git-tree-sha1 = "95ae8a725207046360199c39b6aee0c96d608213"
+lazy = true
+
+    [["ubuntu_14_driver_2.3.0".download]]
+    sha256 = "eda5f234cd7ac31d4992b15b496425c30434f5cb753f414e702331a679230bb9"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.3.0/cassandra-cpp-driver_2.3.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.4.0"]
+git-tree-sha1 = "547134c5fc6c0efe052be69ed43412649cc2b04f"
+lazy = true
+
+    [["ubuntu_14_driver_2.4.0".download]]
+    sha256 = "f2fbaef5e5c34aa9d3c1780c3d6c51ea0e1ae447628798945739ebbee7c0354d"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.4.0/cassandra-cpp-driver_2.4.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.4.1"]
+git-tree-sha1 = "c339bfca3687e4c3cb1d01be1be993131364bc4f"
+lazy = true
+
+    [["ubuntu_14_driver_2.4.1".download]]
+    sha256 = "cde803cdc6ae5cc5cd3033671106e330da98362e37c83959f5768795909329b3"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.4.1/cassandra-cpp-driver_2.4.1-1_amd64.deb"
+
+["ubuntu_14_driver_2.4.2"]
+git-tree-sha1 = "edcfae8835b742b410b8268c1d13985f29a76be0"
+lazy = true
+
+    [["ubuntu_14_driver_2.4.2".download]]
+    sha256 = "cd6d2816d14f072e05d9de983b8c63de82bb8980a7c9ca4930e28c3bb60a9849"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.4.2/cassandra-cpp-driver_2.4.2-1_amd64.deb"
+
+["ubuntu_14_driver_2.4.3"]
+git-tree-sha1 = "2721fa341492f886ffc43b4937e66473573db45c"
+lazy = true
+
+    [["ubuntu_14_driver_2.4.3".download]]
+    sha256 = "d680ba9afdcc7ca14c2e6cbd5fd5fbeef27d5a10d672da6120650ae16565a4fa"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.4.3/cassandra-cpp-driver_2.4.3-1_amd64.deb"
+
+["ubuntu_14_driver_2.5.0"]
+git-tree-sha1 = "2ff1433dd0a605e818496fedd2b7ab1a4fc6f470"
+lazy = true
+
+    [["ubuntu_14_driver_2.5.0".download]]
+    sha256 = "e2009a8a108972687552b3085065f2cef5a3eaf2730a21ce985f5241b5c7b9ce"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.5.0/cassandra-cpp-driver_2.5.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.6.0"]
+git-tree-sha1 = "31854647abe3b5cde5236a2f076f83dbac1000b3"
+lazy = true
+
+    [["ubuntu_14_driver_2.6.0".download]]
+    sha256 = "5161c9ad01d4957011ee6655d064c6fa3dd095c70e713d090ad6d6f63b979913"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.6.0/cassandra-cpp-driver_2.6.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.7.0"]
+git-tree-sha1 = "3420685ceaa9539ebeef9b266e6d19186b44a4f1"
+lazy = true
+
+    [["ubuntu_14_driver_2.7.0".download]]
+    sha256 = "b15e5def7072e32b96116db98463f55797aef3c06bce53e3875c43c57395fbb1"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.7.0/cassandra-cpp-driver_2.7.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.7.1"]
+git-tree-sha1 = "802df748d098ef22605df9e7ba86b73deab7f796"
+lazy = true
+
+    [["ubuntu_14_driver_2.7.1".download]]
+    sha256 = "daa0f81e4c3517ba1462926a7bd069aef097372c8ed621471c2f599de8f45509"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.7.1/cassandra-cpp-driver_2.7.1-1_amd64.deb"
+
+["ubuntu_14_driver_2.8.0"]
+git-tree-sha1 = "1ab2e4ccde5a109d12dd2ca224150f2a5e4300d7"
+lazy = true
+
+    [["ubuntu_14_driver_2.8.0".download]]
+    sha256 = "1b04c452086ad46ee4812f20e13626ea0a5426027b38a3a37920f691ca4feed2"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.8.0/cassandra-cpp-driver_2.8.0-1_amd64.deb"
+
+["ubuntu_14_driver_2.8.1"]
+git-tree-sha1 = "b79a784e918586522b0455e56cf1366d10a7fdf4"
+lazy = true
+
+    [["ubuntu_14_driver_2.8.1".download]]
+    sha256 = "eec5c467c85373e5290c79b222a44144f7b272a28be56fdeffff0667f8dea6ec"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.8.1/cassandra-cpp-driver_2.8.1-1_amd64.deb"
+
+["ubuntu_14_driver_2.9.0"]
+git-tree-sha1 = "7d521bd89511ff8a821c9cad84f79411db7fea41"
+lazy = true
+
+    [["ubuntu_14_driver_2.9.0".download]]
+    sha256 = "f7ef99f809416c6089fb4e2168f3ff1ec5e40df4a57c47044aa65094b48ac5ee"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.9.0/cassandra-cpp-driver_2.9.0-1_amd64.deb"
+
+["ubuntu_14_libuv_1.23.0"]
+git-tree-sha1 = "ef7dba40f8fb9a539f23c9da8ace0f02bd45b58e"
+lazy = true
+
+    [["ubuntu_14_libuv_1.23.0".download]]
+    sha256 = "94c940303d37deb67e95a043a1b705be1c7c2ffdfafc9acf7750a0be45a5f1d3"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/dependencies/libuv/v1.23.0/libuv1_1.23.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.10.0"]
+git-tree-sha1 = "10feccc8d9bb870b74dc70fda308a2bd3386bb25"
+lazy = true
+
+    [["ubuntu_16_driver_2.10.0".download]]
+    sha256 = "603389b4f1faef4bc4564a3027ee5428e33fa6379ea907ff6eb747a26f75f511"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.10.0/cassandra-cpp-driver_2.10.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.11.0"]
+git-tree-sha1 = "2effb3f2201fb6ef5f473c84125731a35ce4e571"
+lazy = true
+
+    [["ubuntu_16_driver_2.11.0".download]]
+    sha256 = "96e10eafa8f5a5dffc558440a3b1ebe68e4136ed0ad36c645cbfdffee7059f0f"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.11.0/cassandra-cpp-driver_2.11.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.12.0"]
+git-tree-sha1 = "b8e2210071241f48353f4fc12aec82113376f6d4"
+lazy = true
+
+    [["ubuntu_16_driver_2.12.0".download]]
+    sha256 = "f1820bec282d6c9f9b46703e432389d7df5845fe75fe1c5d83b732109d172dde"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.12.0/cassandra-cpp-driver_2.12.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.13.0"]
+git-tree-sha1 = "95aa6a00e40d0f9a31b2b287404960ef42601439"
+lazy = true
+
+    [["ubuntu_16_driver_2.13.0".download]]
+    sha256 = "eddbdabc238374825e3b7d89702d3bc82f9ee0d9fe3df48bd3b01697e0fb1f87"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.13.0/cassandra-cpp-driver_2.13.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.14.0"]
+git-tree-sha1 = "b00bed238ddb2a6df9bda74522e84c112f4dafe9"
+lazy = true
+
+    [["ubuntu_16_driver_2.14.0".download]]
+    sha256 = "e042a7a109cb71d86f12fcf94bd2dd1e4719f1bd0b926c2031adfc1f6c8a8c6f"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.14.0/cassandra-cpp-driver_2.14.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.14.1"]
+git-tree-sha1 = "c13c29530eab6612eed58e0de0bcf48310af3b9f"
+lazy = true
+
+    [["ubuntu_16_driver_2.14.1".download]]
+    sha256 = "afe97d80e5c745758ff1371c4d2840a4998b2828e116371644ca6628b4131fd1"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.14.1/cassandra-cpp-driver_2.14.1-1_amd64.deb"
+
+["ubuntu_16_driver_2.15.0"]
+git-tree-sha1 = "6e4249c8ca6d543ee2578f2a2b9270d7e59e0054"
+lazy = true
+
+    [["ubuntu_16_driver_2.15.0".download]]
+    sha256 = "711495cc9304b8141e3a8e5681925509b10568639845cbb64a0f11c0c6ee35c7"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.15.0/cassandra-cpp-driver_2.15.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.15.1"]
+git-tree-sha1 = "c4a895ccefbee55af68d682eda4a57f615dfed0b"
+lazy = true
+
+    [["ubuntu_16_driver_2.15.1".download]]
+    sha256 = "b8d9224fb6bfef9e97fc5425e08aa99b6fc0695b78346760ee8f892a204b8150"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.15.1/cassandra-cpp-driver_2.15.1-1_amd64.deb"
+
+["ubuntu_16_driver_2.15.2"]
+git-tree-sha1 = "6baab8de8bd698041eb300a2c2b9621f6ef144c9"
+lazy = true
+
+    [["ubuntu_16_driver_2.15.2".download]]
+    sha256 = "354a938c88997ae797f05e7b7c956783874d369ad7c9b6bc281b576af5278f4a"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.15.2/cassandra-cpp-driver_2.15.2-1_amd64.deb"
+
+["ubuntu_16_driver_2.15.3"]
+git-tree-sha1 = "be4bbbe6950aa2da68d2ed801858f238e3301044"
+lazy = true
+
+    [["ubuntu_16_driver_2.15.3".download]]
+    sha256 = "33c6baa1ec7a37f033cf7afff05e2a515afcf37de91253068124f2656331f5d1"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.15.3/cassandra-cpp-driver_2.15.3-1_amd64.deb"
+
+["ubuntu_16_driver_2.4.0"]
+git-tree-sha1 = "a6930e7b4d3408b6e5e537202b5b4be8378133fd"
+lazy = true
+
+    [["ubuntu_16_driver_2.4.0".download]]
+    sha256 = "b38bc863458d025b5943c69a6e9c89ff4ad7d484dbb3036a3ee809ab92c5adae"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.4.0/cassandra-cpp-driver_2.4.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.4.1"]
+git-tree-sha1 = "f101591bf39bcb992555323b9aa741bdce645501"
+lazy = true
+
+    [["ubuntu_16_driver_2.4.1".download]]
+    sha256 = "ccd218d854d93b6a50e0edfc3cc1d4250382796a613d0544f0cc258efaf5a5e3"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.4.1/cassandra-cpp-driver_2.4.1-1_amd64.deb"
+
+["ubuntu_16_driver_2.4.2"]
+git-tree-sha1 = "8611801f88ca69b0713c1e260b0c7b12a37504e1"
+lazy = true
+
+    [["ubuntu_16_driver_2.4.2".download]]
+    sha256 = "c629984339fd60f344b48f4cdb6b0a874b2047c170d577c58f24f39822846ff8"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.4.2/cassandra-cpp-driver_2.4.2-1_amd64.deb"
+
+["ubuntu_16_driver_2.4.3"]
+git-tree-sha1 = "4e566905865ea841748e2d3024fcfdf87b36bd26"
+lazy = true
+
+    [["ubuntu_16_driver_2.4.3".download]]
+    sha256 = "74e1a5e4ceebb2c12a1f6bf64e433af8c656f30a6fede17c4d522cde85f5e8a3"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.4.3/cassandra-cpp-driver_2.4.3-1_amd64.deb"
+
+["ubuntu_16_driver_2.5.0"]
+git-tree-sha1 = "8f39cf7f55d5a162970ca3c59e5d423c733ef82c"
+lazy = true
+
+    [["ubuntu_16_driver_2.5.0".download]]
+    sha256 = "41f778673d3eaa006301ad5b8d7a54f32b6c25cfc65361bef583a22f263bf137"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.5.0/cassandra-cpp-driver_2.5.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.6.0"]
+git-tree-sha1 = "17e1b2bf019c67c3cd90f924344d1cae0e925235"
+lazy = true
+
+    [["ubuntu_16_driver_2.6.0".download]]
+    sha256 = "430efdfb241d932c4bf9aabd60c2d4289d6ab463bf7548a29c3588d246e724ec"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.6.0/cassandra-cpp-driver_2.6.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.7.0"]
+git-tree-sha1 = "74ebe640d7f5b6f8914c508069e94bf7d3611f2c"
+lazy = true
+
+    [["ubuntu_16_driver_2.7.0".download]]
+    sha256 = "271f1b32d17d207106a54c69f3721567ea74ce055a5b8369447573793442ad20"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.7.0/cassandra-cpp-driver_2.7.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.7.1"]
+git-tree-sha1 = "0be5726121f0286a692a5da5581748cf35d8c769"
+lazy = true
+
+    [["ubuntu_16_driver_2.7.1".download]]
+    sha256 = "8808ddd6d52b78d1c247c8ba754c3a987663ffcfc658b34ee1691d075796e469"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.7.1/cassandra-cpp-driver_2.7.1-1_amd64.deb"
+
+["ubuntu_16_driver_2.8.0"]
+git-tree-sha1 = "c1018017b40a9658672e3288fd7f632b6cf84f08"
+lazy = true
+
+    [["ubuntu_16_driver_2.8.0".download]]
+    sha256 = "e51e638dc895dc1b3155f29f122ec5979b1ce49c75b17c8ea998930c4248eb8f"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.8.0/cassandra-cpp-driver_2.8.0-1_amd64.deb"
+
+["ubuntu_16_driver_2.8.1"]
+git-tree-sha1 = "a75a1366c6d1fc324ab9e301ac6998da77ff5df7"
+lazy = true
+
+    [["ubuntu_16_driver_2.8.1".download]]
+    sha256 = "a42184c4399dcb0846d879a3eee7848dc428010ed5b616657950a55f6bdd1866"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.8.1/cassandra-cpp-driver_2.8.1-1_amd64.deb"
+
+["ubuntu_16_driver_2.9.0"]
+git-tree-sha1 = "7a24547bb27e6abb9dea456350a8ba7c174d8d5b"
+lazy = true
+
+    [["ubuntu_16_driver_2.9.0".download]]
+    sha256 = "c6ad714b55d586c590c29b220623f66965a185cf0e1b0a06e994e41540419f54"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/16.04/cassandra/v2.9.0/cassandra-cpp-driver_2.9.0-1_amd64.deb"
+
+["ubuntu_16_libuv_1.23.0"]
+git-tree-sha1 = "ef7dba40f8fb9a539f23c9da8ace0f02bd45b58e"
+lazy = true
+
+    [["ubuntu_16_libuv_1.23.0".download]]
+    sha256 = "94c940303d37deb67e95a043a1b705be1c7c2ffdfafc9acf7750a0be45a5f1d3"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/dependencies/libuv/v1.23.0/libuv1_1.23.0-1_amd64.deb"
+
+["ubuntu_18_driver_2.10.0"]
+git-tree-sha1 = "484bad4e7ddf52ac4854da80bc0f1d3ac6d69bd7"
+lazy = true
+
+    [["ubuntu_18_driver_2.10.0".download]]
+    sha256 = "91f47cb9558243808cf3c2bb7646024686790754ea989ad7f4ab6a373a39de36"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.10.0/cassandra-cpp-driver_2.10.0-1_amd64.deb"
+
+["ubuntu_18_driver_2.11.0"]
+git-tree-sha1 = "2e185d615d47ecbd3df03ef22fda34e0dbcd77bd"
+lazy = true
+
+    [["ubuntu_18_driver_2.11.0".download]]
+    sha256 = "2ffc070c70c52d5d78483ce43a2f129b99478f768ef052f7b6cc4477cd651805"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.11.0/cassandra-cpp-driver_2.11.0-1_amd64.deb"
+
+["ubuntu_18_driver_2.12.0"]
+git-tree-sha1 = "df390eee3bca9a0d330f8c199c5fc77438aae652"
+lazy = true
+
+    [["ubuntu_18_driver_2.12.0".download]]
+    sha256 = "ed54b89abceb83a86ab152f0bfb54f37a65c85fda120499aeddee1576035bf64"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.12.0/cassandra-cpp-driver_2.12.0-1_amd64.deb"
+
+["ubuntu_18_driver_2.13.0"]
+git-tree-sha1 = "eaeac9e61ec6fc2a77ff2e25c3ee7cf659ba8710"
+lazy = true
+
+    [["ubuntu_18_driver_2.13.0".download]]
+    sha256 = "3dd108a0b37f090d9149ef4277b8d12019a7d922c0dc3d705e3dffbb0352e48e"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.13.0/cassandra-cpp-driver_2.13.0-1_amd64.deb"
+
+["ubuntu_18_driver_2.14.0"]
+git-tree-sha1 = "21772ceae497e4133dfdc2860460850321cf16eb"
+lazy = true
+
+    [["ubuntu_18_driver_2.14.0".download]]
+    sha256 = "6aedc0ee5eded9168764c6800b0c3a6964a4d6c621ca4fbda1802dde12eb8394"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.14.0/cassandra-cpp-driver_2.14.0-1_amd64.deb"
+
+["ubuntu_18_driver_2.14.1"]
+git-tree-sha1 = "3bdf99b573afd529ba1708d66d5b335e5d524651"
+lazy = true
+
+    [["ubuntu_18_driver_2.14.1".download]]
+    sha256 = "81b7c9eb8e9b7a9610ca7d7fb5d90ff594e48df428c56e5be34e3c8ab28c7923"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.14.1/cassandra-cpp-driver_2.14.1-1_amd64.deb"
+
+["ubuntu_18_driver_2.15.0"]
+git-tree-sha1 = "3ec78bb507a5ddb1b477a5c7b51746c2f0c1e272"
+lazy = true
+
+    [["ubuntu_18_driver_2.15.0".download]]
+    sha256 = "78927a5965ade757ec79b009b3a47706033786794ad906060a5b488d1604f615"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.15.0/cassandra-cpp-driver_2.15.0-1_amd64.deb"
+
+["ubuntu_18_driver_2.15.1"]
+git-tree-sha1 = "47ebfe11920cc30045e1d8e8071f31ca6b30851b"
+lazy = true
+
+    [["ubuntu_18_driver_2.15.1".download]]
+    sha256 = "8977a6c721f66ed65e04ce28ec75781557be0122befbc5b9a8cb8cb7f96edac8"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.15.1/cassandra-cpp-driver_2.15.1-1_amd64.deb"
+
+["ubuntu_18_driver_2.15.2"]
+git-tree-sha1 = "509d19296a2eecb18d811c3b26ec2deb550ba3e8"
+lazy = true
+
+    [["ubuntu_18_driver_2.15.2".download]]
+    sha256 = "31c9fa443b6b00822672dc05c21db8bda8241791f76c1aab176cf9a6a48cd35c"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.15.2/cassandra-cpp-driver_2.15.2-1_amd64.deb"
+
+["ubuntu_18_driver_2.15.3"]
+git-tree-sha1 = "ed02730c6565323b0f79093a76ad6f215e47612b"
+lazy = true
+
+    [["ubuntu_18_driver_2.15.3".download]]
+    sha256 = "7545d3ff756df2a89ffc23b31e35b8679c795e6f93ce199c8d165b73bcc1b003"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/cassandra/v2.15.3/cassandra-cpp-driver_2.15.3-1_amd64.deb"
+
+["ubuntu_18_libuv_1.23.0"]
+git-tree-sha1 = "ef7dba40f8fb9a539f23c9da8ace0f02bd45b58e"
+lazy = true
+
+    [["ubuntu_18_libuv_1.23.0".download]]
+    sha256 = "94c940303d37deb67e95a043a1b705be1c7c2ffdfafc9acf7750a0be45a5f1d3"
+    url = "http://downloads.datastax.com/cpp-driver/ubuntu/18.04/dependencies/libuv/v1.23.0/libuv1_1.23.0-1_amd64.deb"
+
+["windows_driver_1.0.0"]
+git-tree-sha1 = "a331dc87bfd41715f51e83722a2c3455b42a521e"
+lazy = true
+
+    [["windows_driver_1.0.0".download]]
+    sha256 = "35fb57a870ac7b9e89d41de83657d80af9a555b051dbce79b4013f907f3760bf"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v1.0.0/cassandra-cpp-driver-1.0.0-win64-msvc120.zip"
+
+["windows_driver_1.0.1"]
+git-tree-sha1 = "81c2df8dcdf15863624c98e6cb89aa692612b3d6"
+lazy = true
+
+    [["windows_driver_1.0.1".download]]
+    sha256 = "cd9f0ac56b901af3d4e8f6d97f97c2b81616f4e855daf927160ebdd83433a846"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v1.0.1/cassandra-cpp-driver-1.0.1-win64-msvc120.zip"
+
+["windows_driver_1.0.2"]
+git-tree-sha1 = "7f870a25157edbd1d0d9172798d778a3b09917b9"
+lazy = true
+
+    [["windows_driver_1.0.2".download]]
+    sha256 = "88035bd01807231ff99c8aea481b8d047bc787f7de53fc338e0d96286a3e29cb"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v1.0.2/cassandra-cpp-driver-1.0.2-win64-msvc120.zip"
+
+["windows_driver_1.0.3"]
+git-tree-sha1 = "5caa3de2f3496df121faa947c88023a43aa50520"
+lazy = true
+
+    [["windows_driver_1.0.3".download]]
+    sha256 = "2b6ff5433038111a18191cd06efb05d09300e815161b61b83681e19f5e02c1e2"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v1.0.3/cassandra-cpp-driver-1.0.3-win64-msvc120.zip"
+
+["windows_driver_1.0.4"]
+git-tree-sha1 = "2fe49b8d50fa718752ebbffbabecb7e499fe9629"
+lazy = true
+
+    [["windows_driver_1.0.4".download]]
+    sha256 = "136d807667d24f33a3d95ddc57c8897776cbaf6be0c2ff0d5e5a1f137b2767cf"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v1.0.4/cassandra-cpp-driver-1.0.4-win64-msvc120.zip"
+
+["windows_driver_2.0.0"]
+git-tree-sha1 = "831d07981da4ea8fa0e17dab226f35eabdfe1280"
+lazy = true
+
+    [["windows_driver_2.0.0".download]]
+    sha256 = "e49cca3f7f0c27a48e086cf47311b5b812972a6f1d415dbd7041204587d92fa3"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.0.0/cassandra-cpp-driver-2.0.0-win64-msvc120.zip"
+
+["windows_driver_2.0.1"]
+git-tree-sha1 = "ee5f5fd868fdc769540879c9598b7c16fbf06c8e"
+lazy = true
+
+    [["windows_driver_2.0.1".download]]
+    sha256 = "ee24dcbafda4f19ea32a771eb815061d9b44e88a9f47dbaee7f14e1ca1c8eadc"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.0.1/cassandra-cpp-driver-2.0.1-win64-msvc120.zip"
+
+["windows_driver_2.1.0"]
+git-tree-sha1 = "fc97ccbac32e84cf1e35e5a44a7795f68077b849"
+lazy = true
+
+    [["windows_driver_2.1.0".download]]
+    sha256 = "ac7f2c32c134f152fd074c4630a3c98ad28c768c51f8e294f8c57343be80c596"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.1.0/cassandra-cpp-driver-2.1.0-win64-msvc120.zip"
+
+["windows_driver_2.10.0"]
+git-tree-sha1 = "045470845d47eeae1af74466915296bf115eef63"
+lazy = true
+
+    [["windows_driver_2.10.0".download]]
+    sha256 = "c7179956307e04b4d5b0d0eaebeb357aa0c38e0dc62e92f022a493f6b351ea35"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.10.0/cassandra-cpp-driver-2.10.0-win64-msvc141.zip"
+
+["windows_driver_2.11.0"]
+git-tree-sha1 = "17b72534ca8e3b0025a61511ca444ed6f603d58c"
+lazy = true
+
+    [["windows_driver_2.11.0".download]]
+    sha256 = "a0a0ffb179da414781da0ae8a6162c3bbf90d6de9a44c6f7a1ec1db4cd6685f2"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.11.0/cassandra-cpp-driver-2.11.0-win64-msvc141.zip"
+
+["windows_driver_2.12.0"]
+git-tree-sha1 = "6bd8899dc4dfaa02e257b6d08ce2dac5c8715f21"
+lazy = true
+
+    [["windows_driver_2.12.0".download]]
+    sha256 = "38c42b8bd66b71f4ec0d3dd7034bbdbac7879a2bffba55923816ec95e48c7756"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.12.0/cassandra-cpp-driver-2.12.0-win64-msvc141.zip"
+
+["windows_driver_2.13.0"]
+git-tree-sha1 = "eafab01b8a9bc8a47cd0cfa47f34d058fdd61b30"
+lazy = true
+
+    [["windows_driver_2.13.0".download]]
+    sha256 = "c27879e520c6e67432b2f77d321b6a2aa21e09a22b7f8efc26adedd1cf0904e7"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.13.0/cassandra-cpp-driver-2.13.0-win64-msvc141.zip"
+
+["windows_driver_2.14.0"]
+git-tree-sha1 = "3b5e4e0daa35699fe5422caa0b0ca68c8443b522"
+lazy = true
+
+    [["windows_driver_2.14.0".download]]
+    sha256 = "fa2c1ed5b1a0734370b3f659018088d476848b66d76d26bf6126da225fad5ba2"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.14.0/cassandra-cpp-driver-2.14.0-win64-msvc142.zip"
+
+["windows_driver_2.14.1"]
+git-tree-sha1 = "14f674f3ae30ef0a113a25569ef424bb38615a5b"
+lazy = true
+
+    [["windows_driver_2.14.1".download]]
+    sha256 = "ab622ea058647bf6e9fd4407e7c5af613f5562f4a14ee5498dc8c441aa0d4214"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.14.1/cassandra-cpp-driver-2.14.1-win64-msvc142.zip"
+
+["windows_driver_2.15.0"]
+git-tree-sha1 = "1fc3fe658e9fde9b21831c0e18c2bc8a441f8be6"
+lazy = true
+
+    [["windows_driver_2.15.0".download]]
+    sha256 = "8dde393b9adf165879821f8cdafdd491db3b6dba33ae76048493b213b3206302"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.15.0/cassandra-cpp-driver-2.15.0-win64-msvc142.zip"
+
+["windows_driver_2.15.1"]
+git-tree-sha1 = "ac5b092c16dc7431779e7f5fa4cb0b3b0d0f1f70"
+lazy = true
+
+    [["windows_driver_2.15.1".download]]
+    sha256 = "735051fd8922ffc36623cce5c13ebcc756067c52e04aa2f5b8169be09fa6c5d8"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.15.1/cassandra-cpp-driver-2.15.1-win64-msvc142.zip"
+
+["windows_driver_2.15.2"]
+git-tree-sha1 = "f151570489f5c68244ee01b993a8a705e516f6cf"
+lazy = true
+
+    [["windows_driver_2.15.2".download]]
+    sha256 = "0b14a0439de29cd46056d369584e0773e50352ad24a87867f6f799dacd30dfb0"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.15.2/cassandra-cpp-driver-2.15.2-win64-msvc142.zip"
+
+["windows_driver_2.15.3"]
+git-tree-sha1 = "be178d7a2782420eb1d23ac590ce31a62c79c518"
+lazy = true
+
+    [["windows_driver_2.15.3".download]]
+    sha256 = "86dc0ee6618d5cb6e4bbf3be788b868fc1cc8e1e067da0c2c3878cf97d890f79"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.15.3/cassandra-cpp-driver-2.15.3-win64-msvc142.zip"
+
+["windows_driver_2.2.0"]
+git-tree-sha1 = "6fb195004ba975502fb791ecf463fa333007adb1"
+lazy = true
+
+    [["windows_driver_2.2.0".download]]
+    sha256 = "a8bf6362c89ee961655e8dc87f535c51530da65d4d20f7c96e381dd390c1ce50"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.2.0/cassandra-cpp-driver-2.2.0-win64-msvc140.zip"
+
+["windows_driver_2.2.1"]
+git-tree-sha1 = "089ecbe79043edad4b794324b661263c0a9a7f8a"
+lazy = true
+
+    [["windows_driver_2.2.1".download]]
+    sha256 = "273e55db4d132619726369c55adfacbd93a0877b8ce2660e0b638c73c606ad1e"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.2.1/cassandra-cpp-driver-2.2.1-win64-msvc140.zip"
+
+["windows_driver_2.2.2"]
+git-tree-sha1 = "65a919c898f2eae62dc447e8081fb39fbc7291f0"
+lazy = true
+
+    [["windows_driver_2.2.2".download]]
+    sha256 = "05cb6212e5bebb4934902ac97e5701094273f9380184af453c498385130243dc"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.2.2/cassandra-cpp-driver-2.2.2-win64-msvc140.zip"
+
+["windows_driver_2.3.0"]
+git-tree-sha1 = "1a15fd7b5e677eb060ed8b620d67ea495c947b26"
+lazy = true
+
+    [["windows_driver_2.3.0".download]]
+    sha256 = "0fac3000b3913dfb4d16d96958899c1b408d829257b8fb2e88bda443b5325dce"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.3.0/cassandra-cpp-driver-2.3.0-win64-msvc140.zip"
+
+["windows_driver_2.4.0"]
+git-tree-sha1 = "2706e7ef73fcd6d296917226091d4fee56a3eef1"
+lazy = true
+
+    [["windows_driver_2.4.0".download]]
+    sha256 = "cfcf93f505bca8adc961569f7ea72218c93bdf37379f514349f7491de64d62b4"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.4.0/cassandra-cpp-driver-2.4.0-win64-msvc140.zip"
+
+["windows_driver_2.4.1"]
+git-tree-sha1 = "28b6b40afe90cf92084231ea13d65ee29a9811d0"
+lazy = true
+
+    [["windows_driver_2.4.1".download]]
+    sha256 = "9dd1c6d4916230979991418f23ac2b155f38a51c965d3f4b5ce7ff930d2ddf5a"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.4.1/cassandra-cpp-driver-2.4.1-win64-msvc140.zip"
+
+["windows_driver_2.4.2"]
+git-tree-sha1 = "911598440bcd0508b907cd0cc5d188343b5d2ecb"
+lazy = true
+
+    [["windows_driver_2.4.2".download]]
+    sha256 = "d18c6f2009c5f438907cd12aa25356e0ed311e28c5353e8ae4cb2b7ff265ed35"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.4.2/cassandra-cpp-driver-2.4.2-win64-msvc140.zip"
+
+["windows_driver_2.4.3"]
+git-tree-sha1 = "34540888b0b4460e31d6286d3a25f4fdf8e6525f"
+lazy = true
+
+    [["windows_driver_2.4.3".download]]
+    sha256 = "6067d15a1110393e19d10bad2e894db555c2bc9c8254bdb8e315ca25b4f93e67"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.4.3/cassandra-cpp-driver-2.4.3-win64-msvc140.zip"
+
+["windows_driver_2.5.0"]
+git-tree-sha1 = "32e0323deb9e9ae83ebe77bdea0ff2429b4e7b62"
+lazy = true
+
+    [["windows_driver_2.5.0".download]]
+    sha256 = "8eb94a67c7c7c65c70d9bc2055e342885e0e29676f0070c5a221d0a51a8dc534"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.5.0/cassandra-cpp-driver-2.5.0-win64-msvc140.zip"
+
+["windows_driver_2.6.0"]
+git-tree-sha1 = "07b0de300b892a9aa2210ed42ee04e52a9bd1589"
+lazy = true
+
+    [["windows_driver_2.6.0".download]]
+    sha256 = "15f4ffc456affd1ed18e3895f82fe1523b32f06b4d73a80289c9499d2eedd3c9"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.6.0/cassandra-cpp-driver-2.6.0-win64-msvc140.zip"
+
+["windows_driver_2.7.0"]
+git-tree-sha1 = "0e4f58f8d957890e43d6902c0aa695aa3387f44a"
+lazy = true
+
+    [["windows_driver_2.7.0".download]]
+    sha256 = "c53a4e16af030dce7f84832d80e981de05719457da5498f856fec6e0698694a9"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.7.0/cassandra-cpp-driver-2.7.0-win64-msvc140.zip"
+
+["windows_driver_2.7.1"]
+git-tree-sha1 = "0f0f78631aab5deb2063cfdb0905a4fa1e9cb965"
+lazy = true
+
+    [["windows_driver_2.7.1".download]]
+    sha256 = "0acc2c6b643dfaa885739e7cb2a594537fa11ea14652d9c9396e912461019ec2"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.7.1/cassandra-cpp-driver-2.7.1-win64-msvc140.zip"
+
+["windows_driver_2.8.0"]
+git-tree-sha1 = "940d3f7cd6f94c5cae7fee732aeb6c5b39ed5c47"
+lazy = true
+
+    [["windows_driver_2.8.0".download]]
+    sha256 = "2c4bac40f2028e9cd6dba2c912fb085060b62669774f47d11a58f7e7a15103ce"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.8.0/cassandra-cpp-driver-2.8.0-win64-msvc141.zip"
+
+["windows_driver_2.8.1"]
+git-tree-sha1 = "a38416abe0ed49f8f8b4ae8d5f0fdb1be01dbe5f"
+lazy = true
+
+    [["windows_driver_2.8.1".download]]
+    sha256 = "ffd562584d8d3e83b80cdecaf737e52dcb6d72cb191d142a801af4c3c8ee08a1"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.8.1/cassandra-cpp-driver-2.8.1-win64-msvc141.zip"
+
+["windows_driver_2.9.0"]
+git-tree-sha1 = "a20b41788b30e3392a11ca457149b15690c10877"
+lazy = true
+
+    [["windows_driver_2.9.0".download]]
+    sha256 = "24a04948c4cba5e2b36f4efa35d01038e676ad71bbb492198ef68732bd47fbeb"
+    url = "http://downloads.datastax.com/cpp-driver/windows/cassandra/v2.9.0/cassandra-cpp-driver-2.9.0-win64-msvc141.zip"
